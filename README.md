@@ -1,5 +1,8 @@
 # ST10278170-POE-PART-2-
 
+Below is the Main Window Code to Start the Application for the Monthly System at Rosebank College. 
+For Lecturers.
+
 
 using System;
 using System.Data;
